@@ -6,6 +6,7 @@
 </head>
 <body>
 	Hello world!
+	login form!
 
 	<script type="js/main.js"></script>
 </body>
